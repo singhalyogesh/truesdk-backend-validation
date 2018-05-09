@@ -20,7 +20,7 @@ NOTE : Truecaller already verifies the authenticity of the response before forwa
 You can also have a look at the following link for reference on verifying a digital signature
 https://docs.oracle.com/javase/tutorial/security/apisign/versig.html
 
-This repository contains backend validation soce snippets for the following programming languages -
+This repository contains backend validation code snippets for the following programming languages -
 
  - Java
  - PHP
